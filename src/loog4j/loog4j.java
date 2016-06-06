@@ -15,6 +15,7 @@ public class loog4j {
 			i = i / 0;
 		}catch(Exception e){
 			logger.error(e.getMessage());
+			System.out.println("ABC");
 		}
 	}
 }
