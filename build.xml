@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+   <project name="Hello World Project" default="info">
+   <target name="info">
+      <echo>Hello ZESHAN....!</echo>
+   </target>
+   	
+   	<target name ="create">
+   		<mkdir dir = "zeeee">  </mkdir>
+   			</target>
+   	
+</project>

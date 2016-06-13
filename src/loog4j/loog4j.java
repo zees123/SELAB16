@@ -16,6 +16,8 @@ public class loog4j {
 		}catch(Exception e){
 			logger.error(e.getMessage());
 			System.out.println("");
+			
+			System.out.println("Zeeshan");
 		}
 	}
 }
